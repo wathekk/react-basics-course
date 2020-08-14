@@ -9,7 +9,8 @@ class App extends React.Component {
     super();
     
     this.state = {
-      kawarjeya: []
+      kawarjeya: [],
+      searchField: ""
     }
   }
 
@@ -20,9 +21,15 @@ class App extends React.Component {
   }
 
   render () {
+    const { kawarjeya, searchField } = this.state;
+    const filteredKawarjeya = kawarjeya.filter(kawarji => 
+        kawarji.name.toLowerCase().includes(searchField.toLowerCase())
+    )
+
     return (
       <div className="App">
-        <CardList kawarjeya={this.state.kawarjeya} />
+        <input type="search" placeholder="search" onChange={e => {this.setState({searchField : e.target.value})}}/>
+        <CardList kawarjeya={filteredKawarjeya} />
       </div>
     );
   }
