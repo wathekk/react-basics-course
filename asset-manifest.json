@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/react-basics-course/static/css/main.ae211235.chunk.css",
+    "main.js": "/react-basics-course/static/js/main.dc74217e.chunk.js",
+    "main.js.map": "/react-basics-course/static/js/main.dc74217e.chunk.js.map",
+    "runtime-main.js": "/react-basics-course/static/js/runtime-main.9ff59eb8.js",
+    "runtime-main.js.map": "/react-basics-course/static/js/runtime-main.9ff59eb8.js.map",
+    "static/js/2.bac39102.chunk.js": "/react-basics-course/static/js/2.bac39102.chunk.js",
+    "static/js/2.bac39102.chunk.js.map": "/react-basics-course/static/js/2.bac39102.chunk.js.map",
+    "index.html": "/react-basics-course/index.html",
+    "precache-manifest.e9c10e700749b22c7d8031aa7817e5c1.js": "/react-basics-course/precache-manifest.e9c10e700749b22c7d8031aa7817e5c1.js",
+    "service-worker.js": "/react-basics-course/service-worker.js",
+    "static/css/main.ae211235.chunk.css.map": "/react-basics-course/static/css/main.ae211235.chunk.css.map",
+    "static/js/2.bac39102.chunk.js.LICENSE.txt": "/react-basics-course/static/js/2.bac39102.chunk.js.LICENSE.txt",
+    "static/media/1.jpg": "/react-basics-course/static/media/1.c9d67fed.jpg",
+    "static/media/10.jpg": "/react-basics-course/static/media/10.3d074a01.jpg",
+    "static/media/2.jpg": "/react-basics-course/static/media/2.a5eeb750.jpg",
+    "static/media/3.jpg": "/react-basics-course/static/media/3.805a7e97.jpg",
+    "static/media/4.jpg": "/react-basics-course/static/media/4.63b24111.jpg",
+    "static/media/5.jpg": "/react-basics-course/static/media/5.1f0d018a.jpg",
+    "static/media/6.jpg": "/react-basics-course/static/media/6.db81d972.jpg",
+    "static/media/7.jpg": "/react-basics-course/static/media/7.d6b83820.jpg",
+    "static/media/8.jpg": "/react-basics-course/static/media/8.4d09ccd2.jpg",
+    "static/media/9.jpg": "/react-basics-course/static/media/9.eee63693.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9ff59eb8.js",
+    "static/js/2.bac39102.chunk.js",
+    "static/css/main.ae211235.chunk.css",
+    "static/js/main.dc74217e.chunk.js"
+  ]
+}
